@@ -2,7 +2,7 @@
 
  <img src="DukijoteDeLaMancha.JPG" alt="" width="302" height="303" />
 
-Aquí encontrarás los enlaces con la información de los Hack-Days y encuentros que realizamos en el año 2018
+Aquí encontrarás los enlaces con la información de los Hack-Days y encuentros que realizamos en el año 2019
 
 
 # Workshop-01: Orquestación en Kubernetes para desarrolladores Java
